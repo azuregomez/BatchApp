@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BatchApp": {
+      "commandName": "Project",
+      "commandLineArgs": "file1.txt"
+    }
+  }
+}
